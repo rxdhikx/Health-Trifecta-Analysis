@@ -1,6 +1,6 @@
 # OBJECTIVE
 
-<p> The project's method involves thoroughly exploring datasets linked to heart disease, cancer, and
+The project's method involves thoroughly exploring datasets linked to heart disease, cancer, and
 diabetes. By using advanced analysis techniques, it aims to deeply understand the characteristics
 and distributions of important variables within each dataset using tools for visualizing data.
 Moving beyond just exploring, the project applies statistical and machine learning methods to
@@ -16,4 +16,4 @@ prepare data, making the overall dataset better for stronger analysis.
 Wrapping up, the project creates visualizations and reports to share findings effectively with both
 technical and non-technical audiences. These tools offer useful insights into connections,
 correlations, and trends found within the datasets of these diseases. This thorough approach helps
-in understanding the complex factors contributing to these significant health issues. </p>
+in understanding the complex factors contributing to these significant health issues. 
